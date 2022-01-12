@@ -6,7 +6,7 @@ This Program Will Take Contents From Things Such As .txt Files And Paste It Into
 ## Compiling
 Make Sure To Download The Source Code Of ContentCopy And Make Sure To Install MinGW Too.
 
-After Installing MinGW And Downloading The Source Code, Extract The ContentCopy Source Code And Open Command Prompt.
+After Installing MinGW And Downloading The Source Code Of This Repository, Extract The ContentCopy Source Code And Open Command Prompt.
 
 After Opening Command Prompt Go In The Directory Of Where The ContentCopy Source Code Is, Making Sure The C++ File Is Atleast There And Type The Following:
 
