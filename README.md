@@ -18,7 +18,7 @@ ContentCopy May Not Function Properly If Your File Name Has Spaces. This Is Not 
 
 ## Programming
 
-> **I Own This Program, However It Was Built From Source Code, Source Code Taken From: https://www.geeksforgeeks.org/c-program-copy-contents-one-file-another-file/**
+> **I Own This Program, However It Was Built From Source Code. Source Code Taken From: https://www.geeksforgeeks.org/c-program-copy-contents-one-file-another-file/**
 
 > **If You Would Like You Can View The Stack Overflow Post And Make Your Own Mouse Prank, Or Download The Source Code From This Repository And Modify It And Publish It As A Fork On Github.**
 
