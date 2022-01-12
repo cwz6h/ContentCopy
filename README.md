@@ -18,8 +18,8 @@ ContentCopy May Not Function Properly If Your File Name Has Spaces. This Is Not 
 
 ## Programming
 
-> **I Own This Program, However It Was Built From Source Code, Source Code Taken From: https://stackoverflow.com/questions/22259936/c-move-mouse-in-windows-using-setcursorpos
+> **I Own This Program, However It Was Built From Source Code, Source Code Taken From: https://stackoverflow.com/questions/22259936/c-move-mouse-in-windows-using-setcursorpos **
 
-> **If You Would Like You Can View The Stack Overflow Post And Make Your Own Mouse Prank, Or Download The Source Code From This Repository And Modify It And Publish It As A Fork On Github.
+> **If You Would Like You Can View The Stack Overflow Post And Make Your Own Mouse Prank, Or Download The Source Code From This Repository And Modify It And Publish It As A Fork On Github.**
 
 **Programmed By hackNcode. (J.B. 3)**
