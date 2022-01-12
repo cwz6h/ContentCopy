@@ -10,7 +10,7 @@ After Installing MinGW And Downloading The Source Code, Extract The ContentCopy 
 
 After Opening Command Prompt Go In The Directory Of Where The ContentCopy Source Code Is, Making Sure The C++ File Is Atleast There And Type The Following:
 
-> **gcc main.cpp -o ContentCopy**
+> **g++ main.cpp -o ContentCopy**
 
 ## Notes
 
