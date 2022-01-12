@@ -14,4 +14,4 @@ After Opening Command Prompt Go In The Directory Of Where The ContentCopy Source
 
 ## Notes
 
-ContentCopy May Not Function Properly If Your File Name Has Spaces. This Is Not A Bug In The Porgram, Command Prompt Itself Cannot Do Anything With File Names That Have Spaces But Show What Directory It Is In, This Is Not A problem With Folders However. It Is Recommended To Use _ (Underscores) As Spaces.
+ContentCopy May Not Function Properly If Your File Name Has Spaces. This Is Not A Bug In The Program, Command Prompt Itself Cannot Do Anything With File Names That Have Spaces But Show What Directory It Is In, This Is Not A problem With Folders However. It Is Recommended To Use _ (Underscores) As Spaces.
